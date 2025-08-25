@@ -5,7 +5,7 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/PlayJoyUwU/Universal-
 loadstring(game:HttpGet('https://raw.githubusercontent.com/PlayJoyUwU/Universal-Script/refs/heads/main/Main%20Script/Noclip.lua'))()
 
 -- Esp
-loadstring(game:HttpGet('https://raw.githubusercontent.com/PlayJoyUwU/Universal-Script/refs/heads/main/Main%20Script/Universal%20Esp.lua'))()
+loadstring(game:HttpGet('https://github.com/PlayJoyUwU/Universal-Script/raw/refs/heads/main/Main%20Script/mm2%20esp.lua'))()
 
 -- Aimlock
 loadstring(game:HttpGet('https://raw.githubusercontent.com/PlayJoyUwU/Universal-Script/refs/heads/main/Main%20Script/Aimlock.lua'))()
