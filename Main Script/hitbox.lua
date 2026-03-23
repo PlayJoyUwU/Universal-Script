@@ -1,4 +1,4 @@
-_G.HeadSize = 50
+_G.HeadSize = 8
 _G.Disabled = true
 
 	--Notifies readiness
