@@ -178,3 +178,7 @@ Players.PlayerAdded:Connect(function(player)
         task.spawn(trackPlayer, player)
     end
 end)
+
+
+	--Notifies readiness
+game.StarterGui:SetCore("SendNotification", {Title="Health Bar ESP"; Text="Health Bar ESP exploit is ready! | Made by Play Joy UwU"; Duration=10;})
