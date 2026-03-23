@@ -73,4 +73,4 @@ end)
 
 
 	--Notifies readiness
-game.StarterGui:SetCore("SendNotification", {Title="Hitbox Expander"; Text="The Hitbox Expander exploit is ready! | Made by Play Joy UwU"; Duration=10;})
+game.StarterGui:SetCore("SendNotification", {Title="Lock On"; Text="Lock On exploit is ready! C to lock on | Made by Play Joy UwU"; Duration=10;})
