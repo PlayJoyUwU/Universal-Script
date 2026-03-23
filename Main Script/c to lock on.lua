@@ -70,3 +70,7 @@ RunService.RenderStepped:Connect(function()
         updateLock()
     end
 end)
+
+
+	--Notifies readiness
+game.StarterGui:SetCore("SendNotification", {Title="Hitbox Expander"; Text="The Hitbox Expander exploit is ready! | Made by Play Joy UwU"; Duration=10;})
