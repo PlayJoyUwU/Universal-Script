@@ -1,4 +1,7 @@
 
+--Notifies readiness
+game.StarterGui:SetCore("SendNotification", {Title="Kill Aura"; Text="The Kill Aura exploit is ready! | Made by Play Joy UwU"; Duration=10;})
+
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
 local LocalPlayer = Players.LocalPlayer
@@ -80,6 +83,3 @@ RunService.Heartbeat:Connect(function(deltaTime)
 		HitEvent:FireServer(unpack(args))
 	end
 end)
-
---Notifies readiness
-game.StarterGui:SetCore("SendNotification", {Title="Kill Aura"; Text="The Kill Aura exploit is ready! | Made by Play Joy UwU"; Duration=10;})
